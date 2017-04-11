@@ -1,4 +1,4 @@
-package annotations;
+package annotations.inbuilt;
 
 import lombok.Data;
 
